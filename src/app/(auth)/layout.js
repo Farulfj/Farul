@@ -24,6 +24,8 @@ export default function RootLayout({ children }) {
                     <li>
                       <a href="admin/work">Work</a>
                     </li>
+                    <li><a href="admin/message">message</a>
+                    </li>
                    
                   </ul>
                 </div>
